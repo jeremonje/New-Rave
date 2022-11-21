@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/jeremonje/New-Rave.git/static/css/main.c2ecd9f7.css",
+    "main.js": "/jeremonje/New-Rave.git/static/js/main.9efc9f3a.js",
+    "static/js/787.aaf5a71d.chunk.js": "/jeremonje/New-Rave.git/static/js/787.aaf5a71d.chunk.js",
+    "static/media/logo_yard_sale.svg": "/jeremonje/New-Rave.git/static/media/logo_yard_sale.6d98da71f7a1ec368eab5160ecc06909.svg",
+    "static/media/bt_add_to_cart.svg": "/jeremonje/New-Rave.git/static/media/bt_add_to_cart.d6e969538a58d48c9495247caf64324d.svg",
+    "static/media/icon_shopping_cart.svg": "/jeremonje/New-Rave.git/static/media/icon_shopping_cart.995748b73b8792b4b60fd1ed0515faaa.svg",
+    "static/media/email.svg": "/jeremonje/New-Rave.git/static/media/email.d489057c8adcd753b8dc8fe27c137b2e.svg",
+    "static/media/icon_menu.svg": "/jeremonje/New-Rave.git/static/media/icon_menu.3ebff34167c36968ae6f8c8990cf7003.svg",
+    "index.html": "/jeremonje/New-Rave.git/index.html",
+    "static/media/flechita.svg": "/jeremonje/New-Rave.git/static/media/flechita.5634ade2a3a788cac60b3d06a4242587.svg",
+    "main.c2ecd9f7.css.map": "/jeremonje/New-Rave.git/static/css/main.c2ecd9f7.css.map",
+    "main.9efc9f3a.js.map": "/jeremonje/New-Rave.git/static/js/main.9efc9f3a.js.map",
+    "787.aaf5a71d.chunk.js.map": "/jeremonje/New-Rave.git/static/js/787.aaf5a71d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2ecd9f7.css",
+    "static/js/main.9efc9f3a.js"
+  ]
+}
